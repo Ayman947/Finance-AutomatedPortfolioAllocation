@@ -1,6 +1,5 @@
-
 # Automated Portfolio Allocation & Statistical Analysis
-# By Ayman Altaweel
+
 
 
 
