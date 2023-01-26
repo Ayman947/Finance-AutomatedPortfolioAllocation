@@ -18,6 +18,6 @@
 
 A Python’s notebook, including:
 
-    1)  Descriptive analysis of 9 USA stocks from 2012 to 2020. 
-    2)  Automated stock portfolio allocation, statistical analysis, and visualization.
-    3)	Automated financial investment decisions.
+    -  Descriptive analysis of 9 USA stocks from 2012 to 2020. 
+    -  Automated stock portfolio allocation, statistical analysis, and visualization.
+    -  Automated financial investment decisions.
